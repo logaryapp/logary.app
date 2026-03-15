@@ -1,7 +1,7 @@
 # Logary
 
 <p align="center">
-  <img src="public/logo.png" alt="Logary Logo" width="120" />
+  <img src="public/favicon.png" alt="Logary Logo" width="120" />
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ Get the latest updates, report bugs, or just chat with the team!
 
 ---
 
-### ☕ Support the Journey
+### Support the Journey
 Logary is being built with passion by a dedicated team. Your support helps us keep the servers running and the updates rolling!
 
 <a href="https://www.patreon.com/c/logary">
